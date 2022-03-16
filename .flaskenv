@@ -1,0 +1,1 @@
+FLASK_APP=f5_launcher.py
